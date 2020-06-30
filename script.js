@@ -46,7 +46,7 @@ getTime.onreadystatechange = function() {
         while (newcontent.firstChild) {
           standdiv.appendChild(newcontent.firstChild);
         }
-      } else if (data[i]["fields"]["Type"] == "Temp") {
+      } else if (data[i]["fields"]["Type"] == "Temporary") {
         var standdiv = document.getElementById("limited-time");
 
         var newcontent = document.createElement("div");
