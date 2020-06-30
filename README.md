@@ -1,37 +1,22 @@
-Welcome to Glitch
-=================
+# [Summer Hackies Awards Ceremony](https://hackies.netlify.app/)
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+**Celebrate everything the community has made**: Over the past year, [Hack Clubbers](https://hackclub.com/) have been learning & building amazing projects. They've participated in 100s of [hackathons](https://hackathons.hackclub.com), shared what they've built in the Slack's [#ship](https://app.slack.com/client/T0266FRGM/C0M8PUPU6/) channel and [sharing short video & photo updates](https://scrapbook.hackclub.com) every day of the summer.
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+As a team, we wanted to end the summer with a celebration of all the spectacular things the community has made. On TBC we will be gathering to look back as a community and acknowledging some stand out projects. Community members who are interested in being considered for an award can submit their projects.
 
-Find out more [about Glitch](https://glitch.com/about).
+This repo is the website for [Hack Club](https://hackclub.com/)’s [Hackies Award Show](https://hackies.netlify.app/), which is part of the [2020 Summer of Making](https://summer.hackclub.com/).
 
+## How do I join?
 
-Your Project
-------------
+You can submit your project in two ways. 
 
-### ← README.md
+1. Visit the [website](https://hackies.netlify.app/), choose the category you'd like to enter, click `Enter`, fill in your project details and click Submit!
+2. Use Lisa, our friendly bot. Message `@lisa list` in Slack, Lisa will respond with a list of available challenges. Find the code that corresponds to the category you'd like to enter. Then message `@lisa submit [category-code] [link-to-project]`. For example use, `@lisa submit personal-website https://sampoder.com`. 
 
-That's this file, where you can tell people what your cool website does and how you built it.
+## How does it work?
 
-### ← index.html
+The site is made with HTML, CSS & JS. It uses a modified verson of [simplegrid](https://simplegrid.io). To access Airtable it uses a simple Express based API hosted on repl.it.
 
-Where you'll write the content of your website. 
+---
 
-### ← style.css
-
-CSS files add styling rules to your content.
-
-### ← script.js
-
-If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project
-
-Made by [Glitch](https://glitch.com/)
--------------------
-
-\ ゜o゜)ノ
+Made by [@sampoder](https://sampoder.com)
