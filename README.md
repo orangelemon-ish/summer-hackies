@@ -15,7 +15,7 @@ You can submit your project in two ways.
 
 ## How does it work?
 
-The site is made with HTML, CSS & JS. It uses a modified version of [simplegrid](https://simplegrid.io). To access Airtable it uses a simple Express based API hosted on [repl.it](https://repl.it).
+The site is made with HTML, CSS & JS. It uses a modified version of [Simple Grid](https://simplegrid.io). To access Airtable it uses a simple Express based API hosted on [repl.it](https://repl.it).
 
 ---
 
